@@ -1,0 +1,1 @@
+ implementasi ImageView. ImageView merupakan bagian dari View yang berfungsi menampilkan gambar pada aplikasi. Disamping itu, View ini dapat ditambahkan atribut android:onClick sehingga dapat diberikan aksi ketika gambar diklik. Adapun Image yang digunakan pada ImageView dapat disimpan pada folder drawable.
